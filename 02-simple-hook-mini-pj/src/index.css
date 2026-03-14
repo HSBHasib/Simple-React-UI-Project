@@ -1,0 +1,28 @@
+html, 
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #222;
+  overflow: hidden;
+}
+
+h1 {
+  background-color: #333;
+  padding: 20px 40px;
+  margin: 10px;
+  width: fit-content;
+  border-radius: 10px;
+  font-size: 45px;
+  color: white;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 15px;
+  background-color: rgba(255, 255, 255, 0.413);
+}
